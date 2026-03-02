@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.notebooklm/
+notebooklm_output/
+tasks/
+CLAUDE.md
+*.egg-info/
+dist/
+build/
+.env
+.pytest_cache/
+test_papers/
+pdf-to-notebooklm-audio_spec.md
